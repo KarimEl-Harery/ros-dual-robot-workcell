@@ -7,9 +7,9 @@ industrial task within a simulated environment.
 The project includes robot modeling, simulation, and a simple
 Human-Machine Interface (HMI) for controlling robot motion.
 
-## Simulation Environment
+## Rendered 3D-models
 
-![Robot Station](src/station.png)
+![Robot Station](src/robot_station.png)
 
 ## Coordinate Frames
 
